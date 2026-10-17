@@ -1,0 +1,22 @@
+# --- switch port ---
+# cmake build trees
+build/
+build-*/
+# build products
+*.nro
+*.nro.sha256
+*.nacp
+*.elf
+
+# game data and saves must never be committed
+th075.dat
+th075b.dat
+th075bgm.dat
+th075c.dat
+msgothic.ttc
+original-glyphs.bin
+score.dat
+config.dat
+replay/
+snapshot/
+*.log
