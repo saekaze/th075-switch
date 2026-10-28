@@ -9,7 +9,7 @@ A native homebrew port of Twilight Frontier and Team Shanghai Alice's 2004 fight
 
 This build runs the C++ reimplementation by [SteinsGateON](https://space.bilibili.com/34714121), published at [Goan114/th075](https://github.com/Goan114/th075), compiled **natively for ARM64** (no wasm, no emulation) and driven by an SDL2 host on an OpenGL ES 3 context — no Linux, Box64 or Wine involved.
 
-Companion to the [Touhou 6](https://github.com/saekaze/th06-switch), [7](https://github.com/saekaze/th07-switch), [8](https://github.com/saekaze/th08-switch), [9](https://github.com/saekaze/th09-switch), [10](https://github.com/saekaze/th10-switch), [11](https://github.com/saekaze/th11-switch) and [15](https://github.com/saekaze/th15-switch) Switch ports, with the same `touhou075.nro` + `sd:/switch/touhou/touhou075/` layout.
+Companion to the [Touhou Switch ports](https://github.com/saekaze/touhou-switch), with the same `touhou075.nro` + `sd:/switch/touhou/touhou075/` layout.
 
 ---
 
